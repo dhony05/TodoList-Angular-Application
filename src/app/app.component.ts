@@ -6,5 +6,16 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-todolist';
+  
+
+
+
+
+
+  constructor(){
+
+    //contructor rant before the scren
+    //console.log(1999);
+    
+  }
 }
